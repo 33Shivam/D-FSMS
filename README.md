@@ -4,5 +4,5 @@ This is a repository for Decentralized File Storage Management System
 Must have **Node.js** installed it could be found at (https://nodejs.org/en/download/)
 
 ### ConsumerPage1 
-![Shown Page1 ConsumerSide1](/Assets/consumerpage1")
+![Shown Page1 ConsumerSide1](/Assets/consumerpage1.png")
 
