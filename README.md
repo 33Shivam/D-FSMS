@@ -6,3 +6,6 @@ Must have **Node.js** installed it could be found at (https://nodejs.org/en/down
 ### ConsumerPage1 
 ![Shown Page1 ConsumerSide1](https://github.com/33Shivam/D-FSMS/blob/master/Assets/consumerpage1.png "Consumer Page1")
 
+### Initial Landing Page
+![Shown ILP](https://github.com/33Shivam/D-FSMS/blob/master/Assets/landin.png "Page Eh")
+
