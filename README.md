@@ -1,7 +1,7 @@
 # D-FSMS
 This is a repository for Decentralized File Storage Management System 
 ## Dependecies to install
-Must have **Node.js** installed it could be found at (https://nodejs.org/en/download/)
+Must have **Node.js** installed it could be found at (https://nodejs.org/en/download/)  
 Also make sure to install craco if it says can't find Craco Usage **npm install @craco/craco**
 
 ### ConsumerPage1 
